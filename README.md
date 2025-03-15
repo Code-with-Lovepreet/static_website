@@ -1,5 +1,5 @@
 # How to host a static website in AWS S3 bucket ?
-##Description:
+##Description:##
 This project is a quick project that gives you simple steps how you can create an S3 bucket in AWS console and how to upload files to run static website.
     
                                         
@@ -14,30 +14,30 @@ This project is a quick project that gives you simple steps how you can create a
  
 
 
-4.Enable network Access Control lists enable to give access to the AWS network to access this website publicly   
+**4.Enable network Access Control lists enable to give access to the AWS network to access this website publicly .** 
 
-5.  Uncheck the block so that website can be accessed publicly. 
+**5.  Uncheck the block so that website can be accessed publicly.**
  
  
 
 
 
-6. click on create bucket. For now, leave other settings as it is.  
+**6. click on create bucket. For now, leave other settings as it is.**
   
 
-ter
-7. Bucket has been created.
+
+**7. Bucket has been created.**
  
 
 
-8. Upload files in the bucket.
+**8. Upload files in the bucket.**
  
 
-9. Make files publicly Accessible.  
+**9. Make files publicly Accessible.**
 
 
 
-8.Go to permissions and enable static website.
+**8.Go to permissions and enable static website.**
  
 
 
