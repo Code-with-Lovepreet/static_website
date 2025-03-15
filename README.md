@@ -1,5 +1,5 @@
 # How to host a static website in AWS S3 bucket ?
-##Description:##
+## Description:
 This project is a quick project that gives you simple steps how you can create an S3 bucket in AWS console and how to upload files to run static website.
     
                                         
