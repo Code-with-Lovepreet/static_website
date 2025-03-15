@@ -46,7 +46,7 @@ This project is a quick project that gives you simple steps how you can create a
 
 
 
-9. Click on the website URL to Access it 
- Website ::  
+**9. Click on the website URL to Access it.**
+## Website  
 
 
