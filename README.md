@@ -4,7 +4,7 @@ This project is a quick project that gives you simple steps how you can create a
     
                                         
 **1.Search S3 in the spotlight search and then click on S3 once the option is visible.**
-![s31]images/1.png
+![s31]https://github.com/Code-with-Lovepreet/static_website/blob/main/images/1.png
  
 **2. Click on create bucket.**
  
