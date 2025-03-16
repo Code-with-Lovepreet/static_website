@@ -7,7 +7,7 @@ This project is a quick project that gives you simple steps how you can create a
 ![s31](https://github.com/Code-with-Lovepreet/static_website/blob/main/images/1.png)
  
 **2. Click on create bucket.**
- 
+ ![S32](https://github.com/Code-with-Lovepreet/static_website/blob/main/images/2.png)
 **3. Select bucket type as a general purpose and give it a unique name. it will give you an error message if the name is already taken.**
 
 
